@@ -1,0 +1,165 @@
+{
+  "name": "RELIQUAIRES",
+  "menuBackgroundImage": "https://mohmo6991.github.io/RELIQUAIRES/BANNER.png",
+  "defaultRessources": {
+    "backgrounds": [
+      "https://mohmo6991.github.io/RELIQUAIRES/PLAYMAT 1.png",
+      "https://mohmo6991.github.io/RELIQUAIRES/PLAYMAT 2.png"
+    ],
+    "decksUrl": ""
+  },
+  "customHelp": "",
+  "cardRotation": "90",
+  "cards": {
+    "dataUrl": "https://mohmo6991.github.io/RELIQUAIRES/CardList.json",
+    "cardBack": "https://mohmo6991.github.io/RELIQUAIRES/0.png"
+  },
+  "deckBuilding": {
+    "mainFilters": [
+      "Invocateur",
+      "Reliquaire",
+      "Sort",
+      "Réaction",
+      "Rituel"
+    ],
+    "formats": []
+  },
+  "gameplay": {
+    "Classic": {
+      "mulligan": {
+        "info": "Retourne le nombre de cartes de ton choix en dessous de ton deck et pioche autant de cartes",
+        "startingHandSize": "5",
+        "drawNewHand": false,
+        "putSelectionAtBottom": false,
+        "drawNewSelectedCards": true
+      },
+      "newTurn": {
+        "drawOnStart": false,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": 1
+      },
+      "defaultNotes": "Que le meilleur Invocateur gagne !",
+      "tokens": [],
+      "countersStartingValues": [
+        0,
+        0
+      ],
+      "hideFacedDownCards": false,
+      "sections": {
+        "customSections": [
+          "Sceau",
+          "Reliquaire",
+          "Invocateur",
+          "Créature",
+          "Sort",
+          "Rituel",
+          "Profondeur"
+        ],
+        "layout": {
+          "direction": "row",
+          "isSymetricalForOpponents": false,
+          "content": []
+        },
+        "categoriesAlreadyOnBoard": [
+          "Deck",
+          "Sceau",
+          "Reliquaire",
+          "Invocateur"
+        ],
+        "autoPlayFromHand": {
+          "Sort": "Sort",
+          "Réaction": "Sort",
+          "Rituel": "Rituel"
+        },
+        "autoPlayFromStack": {
+          "Sort": "Discard",
+          "Créature": "Profondeur",
+          "Rituel": "Discard"
+        },
+        "sectionsDict": {
+          "Sceau": {
+            "title": "Sceau",
+            "isHidden": "opponent-only",
+            "height": "MEDIUM",
+            "alignment": "END",
+            "opponentAlignment": "START",
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": false
+          },
+          "Créature": {
+            "title": "Créature",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": "CENTER",
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": true,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Rituel": {
+            "title": "Rituel",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "END",
+            "opponentAlignment": "START",
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Sort": {
+            "title": "Sort",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Profondeur": {
+            "title": "Profondeur",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "START",
+            "opponentAlignment": "END",
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          }
+        }
+      }
+    }
+  }
+}
