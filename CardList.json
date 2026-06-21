@@ -1,0 +1,1740 @@
+{
+  "1": {
+    "id": "1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Darian Voss, Maréchal de fer",
+        "type": "Invocateur",
+        "cost": "",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/1.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "Invocateur",
+        "cost": "",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Darian Voss, Maréchal de fer",
+    "type": "Invocateur",
+    "cost": 0,
+    "Percée": "",
+    "Assaut": "",
+    "Interception": "",
+    "Effet": "La première fois chaque tour qu’une de vos créatures attaque une créature ayant déjà reçu des Dégâts de combat ce tour, elle gagne +1 Fureur pendant cette attaque.",
+    "PV": "25"
+  },
+  "2": {
+    "id": "2",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "L’Étendard aux Clous Noirs",
+        "type": "Reliquaire",
+        "cost": "0",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/2.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "Créature",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "L’Étendard aux Clous Noirs",
+    "type": "Reliquaire",
+    "cost": 0,
+    "Percée": "",
+    "Assaut": "",
+    "Interception": "",
+    "Effet": "La première fois chaque tour qu’une créature adverse tombe dans les Profondeurs à cause de Dégâts de combat infligés par une de vos créatures, regardez la carte du dessus de votre deck. Vous pouvez la placer au-dessus ou en dessous de votre deck.",
+    "Déchaîné": "Vos créatures gagnent +1 Fureur lorsqu’elles attaquent une créature ayant déjà reçu des Dégâts de combat ce tour-ci."
+  },
+  "3": {
+    "id": "3",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kjarn, Thrall du Serment",
+        "type": "Créature",
+        "cost": "2",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/3.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "Sort",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kjarn, Thrall du Serment",
+    "type": "Créature",
+    "cost": "2",
+    "Percée": "",
+    "Assaut": "",
+    "Interception": "",
+    "Effet": "Quand Kjarn tombe dans les Profondeurs, ajoutez 1 Marque à votre Reliquaire.",
+    "Déchaîné": "",
+    "Fureur": "1",
+    "Ancrage": "2",
+    "Marque": "1",
+    "Emprise": "1"
+  },
+  "4": {
+    "id": "4",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ulfar, Croc de Raid",
+        "type": false,
+        "cost": "2",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/4.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "Sort",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ulfar, Croc de Raid",
+    "type": "Créature",
+    "cost": "2",
+    "Percée": "",
+    "Assaut": "Cette créature peut attaquer le tour où elle est invoquée.",
+    "Interception": "",
+    "Effet": "",
+    "Déchaîné": "",
+    "PV": 0,
+    "Fureur": "2",
+    "Ancrage": "1",
+    "Marque": "1",
+    "Emprise": "1"
+  },
+  "5": {
+    "id": "5",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Eydra, Völva du Fer",
+        "type": "Créature",
+        "cost": "2",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/5.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "Sort",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Eydra, Völva du Fer",
+    "type": "Créature",
+    "cost": "2",
+    "Percée": "",
+    "Assaut": "",
+    "Interception": "",
+    "Effet": "Quand Eydra est invoquée, regardez les 2 cartes du dessus de votre deck. Replacez-en une au-dessus du deck et l’autre en dessous.",
+    "PV": "",
+    "Déchaîné": "",
+    "Fureur": "1",
+    "Ancrage": "3",
+    "Marque": "1",
+    "Emprise": "1"
+  },
+  "6": {
+    "id": "6",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Brokyr, Huskarl Mort",
+        "type": "Créature",
+        "cost": "3",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/6.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "Sort",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Brokyr, Huskarl Mort",
+    "type": "Créature",
+    "cost": "3",
+    "Percée": "",
+    "Assaut": "",
+    "Interception": "Une fois par tour, cette créature peut devenir la cible d’une attaque visant une autre de vos créatures.",
+    "Effet": "",
+    "PV": "",
+    "Déchaîné": "",
+    "Fureur": "1",
+    "Ancrage": "4",
+    "Marque": "1",
+    "Emprise": "2"
+  },
+  "7": {
+    "id": "7",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rauk, Berserker du Sang",
+        "type": "Créature",
+        "cost": "3",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/7.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "Sort",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rauk, Berserker du Sang",
+    "type": "Créature",
+    "cost": "3",
+    "Percée": "",
+    "Assaut": "",
+    "Interception": "",
+    "Effet": "Quand Rauk fait tomber une créature dans les profondeurs, ajoutez 1 Marque à votre Reliquaire.",
+    "PV": "",
+    "Déchaîné": "",
+    "Fureur": "3",
+    "Ancrage": "2",
+    "Marque": "1",
+    "Emprise": "2"
+  },
+  "8": {
+    "id": "8",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Skjold, Mur-de-Rune",
+        "type": "Créature",
+        "cost": "4",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/8.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "Sort",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Skjold, Mur-de-Rune",
+    "type": "Créature",
+    "cost": "4",
+    "Percée": "",
+    "Assaut": "",
+    "Interception": "",
+    "Effet": "Pendant le tour adverse, les autres créatures que vous contrôlez gagnent +1 Ancrage.",
+    "PV": "",
+    "Déchaîné": "",
+    "Fureur": "1",
+    "Ancrage": "5",
+    "Marque": "2",
+    "Emprise": "2"
+  },
+  "9": {
+    "id": "9",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hrolf, Brise-Bouclier",
+        "type": "Créature",
+        "cost": "4",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/9.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "Sort",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hrolf, Brise-Bouclier",
+    "type": "Créature",
+    "cost": "4",
+    "Percée": "",
+    "Assaut": "",
+    "Interception": "",
+    "Effet": "Quand Hrolf attaque une créature ayant déjà reçu des Dégâts de combat ce tour-ci, les Dégâts qu’il lui inflige ne peuvent pas être prévenus.",
+    "PV": "",
+    "Déchaîné": "",
+    "Fureur": "3",
+    "Ancrage": "3",
+    "Marque": "2",
+    "Emprise": "2"
+  },
+  "10": {
+    "id": "10",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Styrn, Ours de Guerre",
+        "type": "Créature",
+        "cost": "5",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/10.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "Sort",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Styrn, Ours de Guerre",
+    "type": "Créature",
+    "cost": "5",
+    "Percée": "",
+    "Assaut": "",
+    "Interception": "",
+    "Effet": "",
+    "PV": "",
+    "Déchaîné": "",
+    "Fureur": "5",
+    "Ancrage": "3",
+    "Marque": "2",
+    "Emprise": "3"
+  },
+  "11": {
+    "id": "11",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ravnar, Fendeur de Serment",
+        "type": "Créature",
+        "cost": "5",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/11.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "Sort",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ravnar, Fendeur de Serment",
+    "type": "Créature",
+    "cost": "5",
+    "Percée": "les Dégâts excédentaires sont infligés à l’Invocateur adverse.",
+    "Assaut": "",
+    "Interception": "",
+    "Effet": "",
+    "PV": "",
+    "Déchaîné": "",
+    "Fureur": "4",
+    "Ancrage": "4",
+    "Marque": "2",
+    "Emprise": "3"
+  },
+  "12": {
+    "id": "12",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vharog, Jarl du Serment Brisé",
+        "type": "Créature",
+        "cost": "6",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/12.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "Sort",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vharog, Jarl du Serment Brisé",
+    "type": "Créature",
+    "cost": "6",
+    "Percée": "",
+    "Assaut": "",
+    "Interception": "",
+    "Effet": "Quand Vharog est invoqué, vous pouvez faire tomber dans les Profondeurs une créature adverse ayant reçu des Dégâts de combat ce tour-ci.",
+    "PV": "",
+    "Déchaîné": "",
+    "Fureur": "5",
+    "Ancrage": "6",
+    "Marque": "3",
+    "Emprise": "4"
+  },
+  "13": {
+    "id": "13",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rune de Traque",
+        "type": "Sort",
+        "cost": "2",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/13.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rune de Traque",
+    "type": "Sort",
+    "cost": "2",
+    "Percée": "",
+    "Assaut": "",
+    "Interception": "",
+    "Effet": "Choisissez une créature adverse. Ce tour-ci, la première fois qu’une deuxième créature différente que vous contrôlez attaque cette créature, elle gagne +2 Fureur pendant cette attaque.",
+    "PV": "",
+    "Déchaîné": "",
+    "Fureur": "",
+    "Ancrage": "",
+    "Marque": "",
+    "Emprise": ""
+  },
+  "14": {
+    "id": "14",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rappel des Profondeurs",
+        "type": "Sort",
+        "cost": "3",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/14.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rappel des Profondeurs",
+    "type": "Sort",
+    "cost": "3",
+    "Percée": "",
+    "Assaut": "",
+    "Interception": "",
+    "Effet": "Choisissez une créature d’Emprise 1 dans vos Profondeurs. Replacez-la dans votre Sceau. Elle ne peut pas être invoquée ce tour-ci.",
+    "PV": "",
+    "Déchaîné": "",
+    "Fureur": "",
+    "Ancrage": "",
+    "Marque": "",
+    "Emprise": ""
+  },
+  "15": {
+    "id": "15",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sursis du Reliquaire",
+        "type": "Sort",
+        "cost": "2",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/15.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sursis du Reliquaire",
+    "type": "Sort",
+    "cost": "2",
+    "Percée": "",
+    "Assaut": "",
+    "Interception": "",
+    "Effet": "Gagnez 3 PV. Vous ne pouvez pas ouvrir de Brèche ce tour-ci.",
+    "PV": "",
+    "Déchaîné": "",
+    "Fureur": "",
+    "Ancrage": "",
+    "Marque": "",
+    "Emprise": ""
+  },
+  "16": {
+    "id": "16",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Captif de Raid",
+        "type": "Sort",
+        "cost": "4",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/16.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Captif de Raid",
+    "type": "Sort",
+    "cost": "4",
+    "Percée": "",
+    "Assaut": "",
+    "Interception": "",
+    "Effet": "Choisissez une créature adverse avec 3 Fureur ou moins. Si votre Emprise le permet, prenez-en le contrôle jusqu’à la fin du tour. Elle ne peut ni attaquer ni utiliser ses effets.",
+    "PV": "",
+    "Déchaîné": "",
+    "Fureur": "",
+    "Ancrage": "",
+    "Marque": "",
+    "Emprise": ""
+  },
+  "17": {
+    "id": "17",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Charge du Drengr",
+        "type": "Sort",
+        "cost": "2",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/17.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Charge du Drengr",
+    "type": "Sort",
+    "cost": "2",
+    "Percée": "",
+    "Assaut": "",
+    "Interception": "",
+    "Effet": "Choisissez une créature que vous contrôlez. Jusqu’à la fin du tour, elle gagne Percée lorsqu’elle attaque une créature ayant reçu des Dégâts de combat ce tour-ci.",
+    "PV": "",
+    "Déchaîné": "",
+    "Fureur": "",
+    "Ancrage": "",
+    "Marque": "",
+    "Emprise": ""
+  },
+  "18": {
+    "id": "18",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Butin du Raid",
+        "type": "Sort",
+        "cost": "2",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/18.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Butin du Raid",
+    "type": "Sort",
+    "cost": "2",
+    "Percée": "",
+    "Assaut": "",
+    "Interception": "",
+    "Effet": "Jouez cette carte seulement si une créature adverse est tombée dans les Profondeurs ce tour-ci. Gagnez 2 PV, puis regardez la carte du dessus de votre deck. Vous pouvez la placer dessous.",
+    "PV": "",
+    "Déchaîné": "",
+    "Fureur": "",
+    "Ancrage": "",
+    "Marque": "",
+    "Emprise": ""
+  },
+  "19": {
+    "id": "19",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Offrande du Thrall",
+        "type": "Sort",
+        "cost": "1",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/19.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "Sort",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Offrande du Thrall",
+    "type": "Sort",
+    "cost": "1",
+    "Percée": "",
+    "Assaut": "",
+    "Interception": "",
+    "Effet": "Choisissez une créature que vous contrôlez avec Emprise 1. Elle tombe dans les Profondeurs. Ajoutez 2 Marques à votre Reliquaire.",
+    "PV": "",
+    "Déchaîné": "",
+    "Fureur": "",
+    "Ancrage": "",
+    "Marque": "",
+    "Emprise": ""
+  },
+  "20": {
+    "id": "20",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sentence du Jarl",
+        "type": "Sort",
+        "cost": "3",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/20.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sentence du Jarl",
+    "type": "Sort",
+    "cost": 0,
+    "Percée": "",
+    "Assaut": "",
+    "Interception": "",
+    "Effet": "Jouez seulement si une de vos créatures a attaqué ce tour-ci. Choisissez une créature adverse ayant reçu des Dégâts de combat ce tour-ci. Elle reçoit 2 Dégâts. Vous ne pouvez plus jouer de Sort ce tour-ci.",
+    "PV": "",
+    "Déchaîné": "",
+    "Fureur": "",
+    "Ancrage": "",
+    "Marque": "",
+    "Emprise": ""
+  },
+  "21": {
+    "id": "21",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sceau Ravivé",
+        "type": "Sort",
+        "cost": "4",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/21.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sceau Ravivé",
+    "type": "Sort",
+    "cost": "4",
+    "Percée": "",
+    "Assaut": "",
+    "Interception": "",
+    "Effet": "Choisissez une créature dans vos Profondeurs avec Emprise 2 ou moins. Replacez-la dans votre Sceau. Vous ne pouvez pas ouvrir de Brèche ce tour-ci.",
+    "PV": "",
+    "Déchaîné": "",
+    "Fureur": "",
+    "Ancrage": "",
+    "Marque": "",
+    "Emprise": ""
+  },
+  "22": {
+    "id": "22",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rupture du Cercle",
+        "type": "Sort",
+        "cost": "3",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/22.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rupture du Cercle",
+    "type": "Sort",
+    "cost": "2",
+    "Percée": "",
+    "Assaut": "",
+    "Interception": "",
+    "Effet": "Choisissez un Rituel actif. Son contrôleur peut retirer 2 Marques de son Reliquaire. S’il ne le fait pas, détruisez ce Rituel.",
+    "PV": "",
+    "Déchaîné": "",
+    "Fureur": "",
+    "Ancrage": "",
+    "Marque": "",
+    "Emprise": ""
+  },
+  "23": {
+    "id": "23",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Parade du Sceau",
+        "type": "Réaction",
+        "cost": "2",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/23.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Parade du Sceau",
+    "type": "Réaction",
+    "cost": "2",
+    "Percée": "",
+    "Assaut": "",
+    "Interception": "",
+    "Effet": "Quand une créature que vous contrôlez devrait recevoir des Dégâts d’une attaque, prévenez 2 de ces Dégâts.",
+    "PV": "",
+    "Déchaîné": "",
+    "Fureur": "",
+    "Ancrage": "",
+    "Marque": "",
+    "Emprise": ""
+  },
+  "24": {
+    "id": "24",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Faille de Renvoi",
+        "type": "Réaction",
+        "cost": "4",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/24.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Faille de Renvoi",
+    "type": "Réaction",
+    "cost": "4",
+    "Percée": "",
+    "Assaut": "",
+    "Interception": "",
+    "Effet": "Quand une créature adverse déclare une attaque directe contre votre Invocateur, prévenez les Dégâts de cette attaque. L’Invocateur adverse perd autant de PV que la Fureur de cette créature.",
+    "PV": "",
+    "Déchaîné": "",
+    "Fureur": "",
+    "Ancrage": "",
+    "Marque": "",
+    "Emprise": ""
+  },
+  "25": {
+    "id": "25",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Brèche Refermée",
+        "type": "Réaction",
+        "cost": "4",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/25.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Brèche Refermée",
+    "type": "Réaction",
+    "cost": "4",
+    "Percée": "",
+    "Assaut": "",
+    "Interception": "",
+    "Effet": "Quand l’adversaire ouvre une Brèche, annulez cette invocation. La créature reste dans son Sceau. L’adversaire récupère les PV payés et ne peut plus ouvrir de Brèche ce tour-ci. À votre prochain tour, vous ne pouvez pas ouvrir de Brèche.",
+    "PV": "",
+    "Déchaîné": "",
+    "Fureur": "",
+    "Ancrage": "",
+    "Marque": "",
+    "Emprise": ""
+  },
+  "26": {
+    "id": "26",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Serment des Morts",
+        "type": "Réaction",
+        "cost": "3",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/26.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Serment des Morts",
+    "type": "Réaction",
+    "cost": "3",
+    "Percée": "",
+    "Assaut": "",
+    "Interception": "",
+    "Effet": "Quand une créature que vous contrôlez devrait tomber dans les Profondeurs à cause de Dégâts de combat, elle ne tombe pas. Retirez tous ses Dégâts, puis son Ancrage devient 1 jusqu’à la fin du tour.",
+    "PV": "",
+    "Déchaîné": "",
+    "Fureur": "",
+    "Ancrage": "",
+    "Marque": "",
+    "Emprise": ""
+  },
+  "27": {
+    "id": "27",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mur de Boucliers",
+        "type": "Réaction",
+        "cost": "2",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/27.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mur de Boucliers",
+    "type": "Réaction",
+    "cost": "2",
+    "Percée": "",
+    "Assaut": "",
+    "Interception": "",
+    "Effet": "Quand une créature que vous contrôlez est attaquée, choisissez une autre créature que vous contrôlez. Cette autre créature devient la cible de l’attaque à sa place.",
+    "PV": "",
+    "Déchaîné": "",
+    "Fureur": "",
+    "Ancrage": "",
+    "Marque": "",
+    "Emprise": ""
+  },
+  "28": {
+    "id": "28",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rang Inflexible",
+        "type": "Réaction",
+        "cost": "2",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/28.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rang Inflexible",
+    "type": "Réaction",
+    "cost": "2",
+    "Percée": "",
+    "Assaut": "",
+    "Interception": "",
+    "Effet": "Quand l’adversaire joue un Sort qui choisit une créature que vous contrôlez, il peut retirer 2 Marques de son Reliquaire. S’il ne le fait pas, annulez ce Sort.",
+    "PV": "",
+    "Déchaîné": "",
+    "Fureur": "",
+    "Ancrage": "",
+    "Marque": "",
+    "Emprise": ""
+  },
+  "29": {
+    "id": "29",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Décret du Jarl",
+        "type": "Rituel",
+        "cost": "5",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/29.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Décret du Jarl",
+    "type": "Rituel",
+    "cost": "5",
+    "Percée": "",
+    "Assaut": "",
+    "Interception": "",
+    "Effet": "Jouez seulement si une créature adverse a reçu des Dégâts de combat ce tour-ci. Choisissez l’une d’elles. Au début de votre prochain tour, si ce Rituel est toujours actif et si cette créature est encore en jeu, elle tombe dans les Profondeurs.",
+    "PV": "",
+    "Déchaîné": "",
+    "Fureur": "",
+    "Ancrage": "",
+    "Marque": "",
+    "Emprise": ""
+  },
+  "30": {
+    "id": "30",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Trêve Arrachée",
+        "type": "Rituel",
+        "cost": "5",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/30.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Trêve Arrachée",
+    "type": "Rituel",
+    "cost": "5",
+    "Percée": "",
+    "Assaut": "",
+    "Interception": "",
+    "Effet": "Jusqu’à la fin du prochain tour adverse, les Invocateurs ne peuvent pas être attaqués directement. Les créatures peuvent toujours être attaquées.",
+    "PV": "",
+    "Déchaîné": "",
+    "Fureur": "",
+    "Ancrage": "",
+    "Marque": "",
+    "Emprise": ""
+  },
+  "31": {
+    "id": "31",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Champ du Jarl",
+        "type": "Rituel",
+        "cost": "5",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/31.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Champ du Jarl",
+    "type": "Rituel",
+    "cost": "5",
+    "Percée": "",
+    "Assaut": "",
+    "Interception": "",
+    "Effet": "Jusqu’à la fin du prochain tour adverse, la première fois chaque tour qu’une créature adverse reçoit des Dégâts de combat, choisissez : elle ne peut pas attaquer jusqu’à la fin du tour, ou elle ne peut pas intercepter jusqu’à la fin du tour.",
+    "PV": "",
+    "Déchaîné": "",
+    "Fureur": "",
+    "Ancrage": "",
+    "Marque": "",
+    "Emprise": ""
+  },
+  "32": {
+    "id": "32",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Elyra veyrn, gardienne du dernier souffle",
+        "type": "Invocateur",
+        "cost": "",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/32.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Elyra veyrn, gardienne du dernier souffle",
+    "type": "Invocateur",
+    "cost": "",
+    "Percée": "",
+    "Assaut": "",
+    "Interception": "",
+    "Effet": "Une fois par tour, quand une créature que vous contrôlez est attaquée, vous pouvez devenir la cible de cette attaque à sa place. Si vous le faites, résolvez l’attaque comme une attaque directe contre votre Invocateur.",
+    "PV": "27",
+    "Déchaîné": "",
+    "Fureur": "",
+    "Ancrage": "",
+    "Marque": "",
+    "Emprise": ""
+  },
+  "33": {
+    "id": "33",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "La Balance Fendue de Nékhet",
+        "type": "Reliquaire",
+        "cost": "",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/33.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "La Balance Fendue de Nékhet",
+    "type": "Reliquaire",
+    "cost": "",
+    "Percée": "",
+    "Assaut": "",
+    "Interception": "",
+    "Effet": "La première fois chaque tour que votre Invocateur perd des PV à cause d’une attaque, vous pouvez ajouter 1 Marque à votre Reliquaire. Si vous faites ainsi, gagnez 1 PV.",
+    "PV": "",
+    "Déchaîné": "La première fois chaque tour qu’une créature adverse tombe dans les Profondeurs à cause de Dégâts de combat infligés par une de vos créatures, gagnez autant de PV que son Ancrage de base.",
+    "Fureur": "",
+    "Ancrage": "",
+    "Marque": "",
+    "Emprise": ""
+  },
+  "34": {
+    "id": "34",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Seneb, Ushabti Fêlé",
+        "type": "Créature",
+        "cost": "2",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/34.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Seneb, Ushabti Fêlé",
+    "type": "Créature",
+    "cost": "2",
+    "Percée": "",
+    "Assaut": "",
+    "Interception": "",
+    "Effet": "Quand Seneb tombe dans les Profondeurs, vous gagnez 1 PV.",
+    "PV": "",
+    "Déchaîné": "",
+    "Fureur": "1",
+    "Ancrage": "2",
+    "Marque": "1",
+    "Emprise": "1"
+  },
+  "35": {
+    "id": "35",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Khebar, Scarabée-Rempart",
+        "type": "Créature",
+        "cost": "2",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/35.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Khebar, Scarabée-Rempart",
+    "type": "Créature",
+    "cost": "2",
+    "Percée": "",
+    "Assaut": "",
+    "Interception": "Une fois par tour, cette créature peut devenir la cible d’une attaque visant une autre de vos créatures.",
+    "Effet": "",
+    "PV": "",
+    "Déchaîné": "",
+    "Fureur": "1",
+    "Ancrage": "3",
+    "Marque": "1",
+    "Emprise": "1"
+  },
+  "36": {
+    "id": "36",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sahen, Chacal du Seuil",
+        "type": "Créature",
+        "cost": "3",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/36.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sahen, Chacal du Seuil",
+    "type": "Créature",
+    "cost": "3",
+    "Percée": "",
+    "Assaut": "",
+    "Interception": "",
+    "Effet": "La première fois chaque tour que votre Invocateur perd des PV à cause d’une attaque, Sahen gagne +1 Fureur jusqu’à la fin de votre prochain tour.",
+    "PV": "",
+    "Déchaîné": "",
+    "Fureur": "2",
+    "Ancrage": "2",
+    "Marque": "1",
+    "Emprise": "1"
+  },
+  "37": {
+    "id": "37",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nefru, Lieuse de Bandelettes",
+        "type": "Créature",
+        "cost": "3",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/37.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nefru, Lieuse de Bandelettes",
+    "type": "Créature",
+    "cost": "3",
+    "Percée": "",
+    "Assaut": "",
+    "Interception": "",
+    "Effet": "Une fois par tour, quand votre Invocateur devient la cible d’une attaque à la place d’une de vos créatures, cette créature gagne +1 Ancrage jusqu’à la fin du prochain tour adverse.",
+    "PV": "",
+    "Déchaîné": "",
+    "Fureur": "1",
+    "Ancrage": "4",
+    "Marque": "1",
+    "Emprise": "2"
+  },
+  "38": {
+    "id": "38",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Amset, Porte-Sarcophage",
+        "type": "Créature",
+        "cost": "4",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/38.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Amset, Porte-Sarcophage",
+    "type": "Créature",
+    "cost": "4",
+    "Percée": "",
+    "Assaut": "",
+    "Interception": "",
+    "Effet": "Quand Amset est invoqué, choisissez une créature adverse. Elle ne peut pas attaquer jusqu’à la fin du prochain tour adverse.",
+    "PV": "",
+    "Déchaîné": "",
+    "Fureur": "2",
+    "Ancrage": "4",
+    "Marque": "2",
+    "Emprise": "2"
+  },
+  "39": {
+    "id": "39",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Iaret, Scribe du Sépulcre",
+        "type": "Créature",
+        "cost": "3",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/39.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Iaret, Scribe du Sépulcre",
+    "type": "Créature",
+    "cost": "3",
+    "Percée": "",
+    "Assaut": "",
+    "Interception": "",
+    "Effet": "Quand Iaret est invoquée, regardez les 2 cartes du dessus de votre deck. Replacez-en une au-dessus du deck et l’autre en dessous.",
+    "PV": "",
+    "Déchaîné": "",
+    "Fureur": "1",
+    "Ancrage": "3",
+    "Marque": "1",
+    "Emprise": "2"
+  },
+  "40": {
+    "id": "40",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hesret, Scarabée-Canopé",
+        "type": "Créature",
+        "cost": "3",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/40.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hesret, Scarabée-Canopé",
+    "type": "Créature",
+    "cost": "3",
+    "Percée": "",
+    "Assaut": "",
+    "Interception": "",
+    "Effet": "Une fois par tour, quand votre Invocateur perd des PV à cause d’une attaque, gagnez 1 PV.",
+    "PV": "",
+    "Déchaîné": "",
+    "Fureur": "1",
+    "Ancrage": "4",
+    "Marque": "1",
+    "Emprise": "2"
+  },
+  "41": {
+    "id": "41",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Khamet, Sphinx du Seuil",
+        "type": "Créature",
+        "cost": "5",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/41.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Khamet, Sphinx du Seuil",
+    "type": "Créature",
+    "cost": "5",
+    "Percée": "",
+    "Assaut": "",
+    "Interception": "",
+    "Effet": "Quand votre Invocateur perd des PV à cause d’une attaque, la créature attaquante reçoit 1 Dégât jusqu’à la fin de votre prochain tour.",
+    "PV": "",
+    "Déchaîné": "",
+    "Fureur": "2",
+    "Ancrage": "5",
+    "Marque": "2",
+    "Emprise": "3"
+  },
+  "42": {
+    "id": "42",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Akhser, Juge de Nékhet",
+        "type": "Créature",
+        "cost": "5",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/42.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Akhser, Juge de Nékhet",
+    "type": "Créature",
+    "cost": "5",
+    "Percée": "",
+    "Assaut": "",
+    "Interception": "Une fois par tour, cette créature peut devenir la cible d’une attaque visant une autre de vos créatures.",
+    "Effet": "Quand Akhser est invoqué, gagnez 1 PV pour chaque créature que vous contrôlez.",
+    "PV": "",
+    "Déchaîné": "",
+    "Fureur": "3",
+    "Ancrage": "6",
+    "Marque": "3",
+    "Emprise": "4"
+  },
+  "43": {
+    "id": "43",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Baume Canopé",
+        "type": "Sort",
+        "cost": "2",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/43.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Baume Canopé",
+    "type": "Sort",
+    "cost": "2",
+    "Percée": "",
+    "Assaut": "",
+    "Interception": "",
+    "Effet": "Gagnez 2 PV.  Si votre Invocateur a perdu des PV à cause d’une attaque ce tour-ci, gagnez 1 PV supplémentaire.",
+    "PV": "",
+    "Déchaîné": "",
+    "Fureur": "",
+    "Ancrage": "",
+    "Marque": "",
+    "Emprise": ""
+  },
+  "44": {
+    "id": "44",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bandelettes de Nékhet",
+        "type": "Sort",
+        "cost": "2",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/44.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bandelettes de Nékhet",
+    "type": "Sort",
+    "cost": "2",
+    "Percée": "",
+    "Assaut": "",
+    "Interception": "",
+    "Effet": "Choisissez une créature que vous contrôlez. Jusqu’à la fin du prochain tour adverse, elle gagne +2 Ancrage.",
+    "PV": "",
+    "Déchaîné": "",
+    "Fureur": "",
+    "Ancrage": "",
+    "Marque": "",
+    "Emprise": ""
+  },
+  "45": {
+    "id": "45",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rappel Canopé",
+        "type": "Sort",
+        "cost": "3",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/45.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rappel Canopé",
+    "type": "Sort",
+    "cost": "3",
+    "Percée": "",
+    "Assaut": "",
+    "Interception": "",
+    "Effet": "Jouez seulement si une de vos créatures avec Emprise 2 ou moins est tombée dans les Profondeurs pendant le dernier tour adverse. Choisissez l’une d’elles. Gagnez autant de PV que son Ancrage de base, puis replacez là dans votre Sceau. Elle ne peut pas être invoquée ce tour-ci.",
+    "PV": "",
+    "Déchaîné": "",
+    "Fureur": "",
+    "Ancrage": "",
+    "Marque": "",
+    "Emprise": ""
+  },
+  "46": {
+    "id": "46",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Onction du Seuil",
+        "type": "Sort",
+        "cost": "2",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/46.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Onction du Seuil",
+    "type": "Sort",
+    "cost": "2",
+    "Percée": "",
+    "Assaut": "",
+    "Interception": "",
+    "Effet": "La prochaine Brèche que vous ouvrez ce tour-ci coûte 2 PV de moins, jusqu’à un minimum de 1 PV.",
+    "PV": "",
+    "Déchaîné": "",
+    "Fureur": "",
+    "Ancrage": "",
+    "Marque": "",
+    "Emprise": ""
+  },
+  "47": {
+    "id": "47",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Double Seuil",
+        "type": "Sort",
+        "cost": "4",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/47.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Double Seuil",
+    "type": "Sort",
+    "cost": "4",
+    "Percée": "",
+    "Assaut": "",
+    "Interception": "",
+    "Effet": "Ce tour-ci, vous pouvez ouvrir une Brèche supplémentaire.  Vous ne pouvez pas déclarer d’attaque ce tour-ci.",
+    "PV": "",
+    "Déchaîné": "",
+    "Fureur": "",
+    "Ancrage": "",
+    "Marque": "",
+    "Emprise": ""
+  },
+  "48": {
+    "id": "48",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Transfert Canopé",
+        "type": "Réaction",
+        "cost": "3",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/48.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Transfert Canopé",
+    "type": "Réaction",
+    "cost": "3",
+    "Percée": "",
+    "Assaut": "",
+    "Interception": "",
+    "Effet": "Quand une créature que vous contrôlez devrait tomber dans les Profondeurs à cause d’une attaque, votre Invocateur peut perdre 2 PV. Si vous faites ainsi, elle ne tombe pas et son Ancrage devient 1 jusqu’à la fin du tour.",
+    "PV": "",
+    "Déchaîné": "",
+    "Fureur": "",
+    "Ancrage": "",
+    "Marque": "",
+    "Emprise": ""
+  },
+  "49": {
+    "id": "49",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sarcophage Entrouvert",
+        "type": "Réaction",
+        "cost": "2",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/49.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sarcophage Entrouvert",
+    "type": "Réaction",
+    "cost": "2",
+    "Percée": "",
+    "Assaut": "",
+    "Interception": "",
+    "Effet": "Quand une créature que vous contrôlez est attaquée, elle gagne +2 Ancrage pendant cette attaque. Après cette attaque, si elle n’est pas tombée dans les Profondeurs, gagnez 1 PV.",
+    "PV": "",
+    "Déchaîné": "",
+    "Fureur": "",
+    "Ancrage": "",
+    "Marque": "",
+    "Emprise": ""
+  },
+  "50": {
+    "id": "50",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sable du Sépulcre",
+        "type": "Réaction",
+        "cost": "2",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/50.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sable du Sépulcre",
+    "type": "Réaction",
+    "cost": "2",
+    "Percée": "",
+    "Assaut": "",
+    "Interception": "",
+    "Effet": "Après la résolution d’une attaque contre une créature que vous contrôlez, si cette créature n’est pas tombée dans les Profondeurs, choisissez une créature adverse. Elle ne peut pas déclarer d’attaque ce tour-ci.",
+    "PV": "",
+    "Déchaîné": "",
+    "Fureur": "",
+    "Ancrage": "",
+    "Marque": "",
+    "Emprise": ""
+  },
+  "51": {
+    "id": "51",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dernier Souffle Scellé",
+        "type": "Réaction",
+        "cost": "2",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/51.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dernier Souffle Scellé",
+    "type": "Réaction",
+    "cost": "2",
+    "Percée": "",
+    "Assaut": "",
+    "Interception": "",
+    "Effet": "Quand une créature que vous contrôlez tombe dans les Profondeurs à cause d’une attaque, gagnez 2 PV.",
+    "PV": "",
+    "Déchaîné": "",
+    "Fureur": "",
+    "Ancrage": "",
+    "Marque": "",
+    "Emprise": ""
+  },
+  "52": {
+    "id": "52",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pesée de Nékhet",
+        "type": "Rituel",
+        "cost": "5",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/52.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pesée de Nékhet",
+    "type": "Rituel",
+    "cost": "5",
+    "Percée": "",
+    "Assaut": "",
+    "Interception": "",
+    "Effet": "Jusqu’à la fin du prochain tour adverse, la première fois chaque tour que vous gagnez des PV, l’Invocateur adverse perd autant de PV.",
+    "PV": "",
+    "Déchaîné": "",
+    "Fureur": "",
+    "Ancrage": "",
+    "Marque": "",
+    "Emprise": ""
+  },
+  "53": {
+    "id": "53",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Portes du Dernier Seuil",
+        "type": "Rituel",
+        "cost": "5",
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/53.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "https://mohmo6991.github.io/RELIQUAIRES/0.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Portes du Dernier Seuil",
+    "type": "Rituel",
+    "cost": "5",
+    "Percée": "",
+    "Assaut": "",
+    "Interception": "",
+    "Effet": "Jusqu’à la fin du prochain tour adverse, la première fois chaque tour qu’une créature adverse déclare une attaque, son contrôleur choisit :  — vous gagnez 2 PV ;  — il perd 2 PV.",
+    "PV": "",
+    "Déchaîné": "",
+    "Fureur": "",
+    "Ancrage": "",
+    "Marque": "",
+    "Emprise": ""
+  }
+}
