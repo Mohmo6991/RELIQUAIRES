@@ -9,7 +9,7 @@
     "decksUrl": ""
   },
   "customHelp": "",
-  "cardRotation": "90",
+  "cardRotation": "45",
   "cards": {
     "dataUrl": "https://mohmo6991.github.io/RELIQUAIRES/CardList.json",
     "cardBack": "https://mohmo6991.github.io/RELIQUAIRES/0.png"
@@ -26,7 +26,9 @@
       {
         "title": "Classic",
         "gameplay": "Classic",
-        "customCategories": []
+        "customCategories": [
+          "Classic"
+        ]
       }
     ]
   },
@@ -146,12 +148,12 @@
         "autoPlayFromHand": {
           "Sort": "Sort",
           "Réaction": "Sort",
-          "Rituel": "Rituel"
+          "Rituel": "Sort"
         },
         "autoPlayFromStack": {
-          "Sort": "Discard",
+          "Sort": "Défausse",
           "Créature": "Profondeur",
-          "Rituel": "Discard"
+          "Rituel": "Défausse"
         },
         "sectionsDict": {
           "Sceau": {
