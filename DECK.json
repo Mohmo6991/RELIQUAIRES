@@ -1,0 +1,306 @@
+[{
+  "title": "Darian Voss, Maréchal de fer",
+  "id": "78155757-4aea-4d29-9f86-77cf8f38b9ec",
+  "cardCount": 42,
+  "createdAt": "2026-06-22T11:47:42.230Z",
+  "lastModifiedAt": "2026-06-22T11:47:55.101Z",
+  "game": "RELIQUAIRES",
+  "format": [
+    "Classic"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "Invocateur",
+      "Reliquaire",
+      "Créature",
+      "Sort",
+      "Réaction",
+      "Rituel"
+    ],
+    "Invocateur": [
+      {
+        "count": 1,
+        "id": "1"
+      }
+    ],
+    "Reliquaire": [
+      {
+        "count": 1,
+        "id": "2"
+      }
+    ],
+    "Créature": [
+      {
+        "count": 1,
+        "id": "3"
+      },
+      {
+        "count": 1,
+        "id": "4"
+      },
+      {
+        "count": 1,
+        "id": "8"
+      },
+      {
+        "count": 1,
+        "id": "7"
+      },
+      {
+        "count": 1,
+        "id": "6"
+      },
+      {
+        "count": 1,
+        "id": "5"
+      },
+      {
+        "count": 1,
+        "id": "9"
+      },
+      {
+        "count": 1,
+        "id": "10"
+      },
+      {
+        "count": 1,
+        "id": "11"
+      },
+      {
+        "count": 1,
+        "id": "12"
+      }
+    ],
+    "Sort": [
+      {
+        "count": 2,
+        "id": "16"
+      },
+      {
+        "count": 2,
+        "id": "15"
+      },
+      {
+        "count": 1,
+        "id": "14"
+      },
+      {
+        "count": 2,
+        "id": "13"
+      },
+      {
+        "count": 2,
+        "id": "17"
+      },
+      {
+        "count": 1,
+        "id": "18"
+      },
+      {
+        "count": 2,
+        "id": "19"
+      },
+      {
+        "count": 2,
+        "id": "20"
+      },
+      {
+        "count": 2,
+        "id": "21"
+      },
+      {
+        "count": 1,
+        "id": "22"
+      }
+    ],
+    "Réaction": [
+      {
+        "count": 2,
+        "id": "23"
+      },
+      {
+        "count": 2,
+        "id": "24"
+      },
+      {
+        "count": 1,
+        "id": "25"
+      },
+      {
+        "count": 2,
+        "id": "26"
+      },
+      {
+        "count": 2,
+        "id": "27"
+      },
+      {
+        "count": 1,
+        "id": "28"
+      }
+    ],
+    "Rituel": [
+      {
+        "count": 1,
+        "id": "29"
+      },
+      {
+        "count": 1,
+        "id": "30"
+      },
+      {
+        "count": 1,
+        "id": "31"
+      }
+    ]
+  }
+},
+{
+  "title": "Elyra Veyrn, Gardienne du dernier souffle",
+  "id": "5e3f823b-b501-47dd-b0c5-15ddf4219475",
+  "cardCount": 41,
+  "createdAt": "2026-06-22T12:17:36.236Z",
+  "lastModifiedAt": "2026-06-22T12:17:36.236Z",
+  "game": "RELIQUAIRES",
+  "format": [
+    "Classic"
+  ],
+  "deckList": {
+    "categoriesOrder": [
+      "Sort",
+      "Réaction",
+      "Rituel",
+      "Invocateur",
+      "Reliquaire",
+      "Créature"
+    ],
+    "Sort": [
+      {
+        "count": 1,
+        "id": "14"
+      },
+      {
+        "count": 2,
+        "id": "15"
+      },
+      {
+        "count": 1,
+        "id": "21"
+      },
+      {
+        "count": 1,
+        "id": "22"
+      },
+      {
+        "count": 2,
+        "id": "43"
+      },
+      {
+        "count": 2,
+        "id": "44"
+      },
+      {
+        "count": 3,
+        "id": "45"
+      },
+      {
+        "count": 2,
+        "id": "46"
+      },
+      {
+        "count": 2,
+        "id": "47"
+      }
+    ],
+    "Réaction": [
+      {
+        "count": 2,
+        "id": "23"
+      },
+      {
+        "count": 1,
+        "id": "24"
+      },
+      {
+        "count": 2,
+        "id": "48"
+      },
+      {
+        "count": 2,
+        "id": "49"
+      },
+      {
+        "count": 2,
+        "id": "50"
+      },
+      {
+        "count": 2,
+        "id": "51"
+      }
+    ],
+    "Rituel": [
+      {
+        "count": 1,
+        "id": "30"
+      },
+      {
+        "count": 1,
+        "id": "52"
+      },
+      {
+        "count": 1,
+        "id": "53"
+      }
+    ],
+    "Invocateur": [
+      {
+        "count": 1,
+        "id": "32"
+      }
+    ],
+    "Reliquaire": [
+      {
+        "count": 1,
+        "id": "33"
+      }
+    ],
+    "Créature": [
+      {
+        "count": 1,
+        "id": "34"
+      },
+      {
+        "count": 1,
+        "id": "35"
+      },
+      {
+        "count": 1,
+        "id": "36"
+      },
+      {
+        "count": 1,
+        "id": "37"
+      },
+      {
+        "count": 1,
+        "id": "38"
+      },
+      {
+        "count": 1,
+        "id": "39"
+      },
+      {
+        "count": 1,
+        "id": "40"
+      },
+      {
+        "count": 1,
+        "id": "41"
+      },
+      {
+        "count": 1,
+        "id": "42"
+      }
+    ]
+  }
+}]
